@@ -10,10 +10,16 @@ import javax.swing.JPanel;
 //note: board does not change dynamically 
 //note: board shape and window aesthetics to be set
 //note: unification of colors not done
+/**
+ * @version v1.0.0
+ * @author Fran
+ */
+
+
 public class BoardDrawing extends JPanel {
 
     /**
-     *
+     * param
      */
     int b = 0;
     int row = 8;
